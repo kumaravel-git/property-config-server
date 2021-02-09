@@ -1,0 +1,5 @@
+
+db:
+  name: DEFAULT
+  description: This is DEFAULT environment
+  
